@@ -41,7 +41,7 @@ public class QuanLyThuVien {
         System.out.println("Ma sach: " + maSach);
         System.out.println("Ten sach: " + tenSach);
         System.out.println("Tac gia: " + tacGia);
-       
+        System.out.println("Nam xuat ban: " + namXuatBan);
 
         System.out.printf("Don gia: %.2f VND\n", donGia);
         System.out.println("So luong: " + soLuong);
